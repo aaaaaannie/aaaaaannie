@@ -15,7 +15,19 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<div align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aaaaaannie&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /> </div>
-<div align="center"> <img src="https://visitor-badge.glitch.me/badge?page_id=aaaaaannie" /> </div>
 <img src="https://github-readme-stats.vercel.app/api?username=aaaaaannie&show_icons=true&theme=radical" alt="AAAAAANNIE's GitHub stats">
+<div align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aaaaaannie&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /> </div>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>GitHub Stats</title>
+</head>
+<body>
+    <div align="center">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aaaaaannie&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=ff69b4&icon_color=fff&bg_color=000000&theme=graywhite" alt="AAAAAANNIE's GitHub Top Languages">
+    </div>
+</body>
+</html>
 
