@@ -50,8 +50,8 @@
 [Click here to listen on Apple Music](https://music.apple.com/us/playlist/top-10-songs/pl.u-V9D7mqpu05G)
 
 
+
 ---
 
-### 🤝 Connect with Me  
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-profile)  
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:your.email@example.com)  
+### 🤝 Connect with Me   
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:anniechenyy700@gmail.com)  
