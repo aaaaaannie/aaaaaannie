@@ -7,7 +7,7 @@
 🌱 **Learning:** Reinforcement Learning & Generative Models  
 📚 **Interests:** AI, Optimization, and Mathematics  
 📫 **Contact me:** [LinkedIn](https://www.linkedin.com/in/your-profile) | [Email](mailto:anniechenyy700@gmail.com)  
-🎵 **Current Vibes:** <a href="https://music.apple.com/cn/album/sk8er-boi/315025768?i=315025826">Click here to listen! </a>
+🎵 **Current Vibes:** <a href="https://music.apple.com/cn/album/sk8er-boi/315025768?i=315025826">Click here to explore! </a>
 
 ---
 
