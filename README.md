@@ -1,5 +1,5 @@
 ### 👋 Welcome to my GitHub!  
-![Typing SVG](https://readme-typing-svg.herokuapp.com?size=27&color=F8ED8C&width=800&duration=6000&speed=4&lines=We+are+already+on+the+optimal+way!;Welcome,+Explorer!+🚀;Let's+build+something+great+together!)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?size=27&color=F8ED8C&width=800&duration=6000&speed=4&lines=We+are+already+on+the+optimal+way!)
 ---
 
 ### 📌 About Me  
