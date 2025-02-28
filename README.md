@@ -23,20 +23,21 @@
 </div>
 
 ---
+<h3>🌟 Most Used Languages & 🎵 Current Vibes</h3>
 
-<div style="display: flex; justify-content: space-between; align-items: center;">
-    <div>
-        <h3>🌟 Most Used Languages</h3>
-        <div align="center">
-            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aaaaaannie&layout=compact&langs_count=6&theme=radical" alt="Top Languages">
-        </div>
-    </div>
-    <div>
-        <h3>🎵 Current Vibes</h3>
-        <p>🎧 <strong>Now Listening:</strong></p>
-        <a href="https://music.apple.com/cn/album/sk8er-boi/315025768?i=315025826">
-            <img src="https://raw.githubusercontent.com/aaaaaannie/aaaaaannie/main/Apple_Music_icon.svg.png" alt="Apple Music" style="width: 50px; height: auto;">
-        </a>
-        <p><a href="https://music.apple.com/cn/album/sk8er-boi/315025768?i=315025826">Click here to listen on Apple Music</a></p>
-    </div>
-</div>
+<table>
+    <tr>
+        <td align="center">
+            <h3>🌟 Most Used Languages</h3>
+            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aaaaaannie&layout=compact&langs_count=6&theme=radical" width="400">
+        </td>
+        <td align="center">
+            <h3>🎵 Current Vibes</h3>
+            <p>🎧 <strong>Now Listening:</strong></p>
+            <a href="https://music.apple.com/cn/album/sk8er-boi/315025768?i=315025826">
+                <img src="https://raw.githubusercontent.com/aaaaaannie/aaaaaannie/main/Apple_Music_icon.svg.png" width="50">
+            </a>
+            <p><a href="https://music.apple.com/cn/album/sk8er-boi/315025768?i=315025826">Click here to listen on Apple Music</a></p>
+        </td>
+    </tr>
+</table>
