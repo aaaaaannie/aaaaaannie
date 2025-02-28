@@ -9,18 +9,18 @@
 📫 **Contact me:** [LinkedIn](https://www.linkedin.com/in/your-profile) | [Email](mailto:anniechenyy700@gmail.com)  
 
 ---
+<h3>🚀 GitHub Stats & 🔥 Streak Stats</h3>
 
-### 🚀 GitHub Stats  
-<div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=aaaaaannie&show_icons=true&theme=radical" alt="AAAAAANNIE's GitHub stats">
-</div>
-
----
-
-### 🔥 Streak Stats  
-<div align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=aaaaaannie&theme=radical" alt="GitHub Streak">
-</div>
+<table>
+    <tr>
+        <td align="center">
+            <img src="https://github-readme-stats.vercel.app/api?username=aaaaaannie&show_icons=true&theme=radical" width="400">
+        </td>
+        <td align="center">
+            <img src="https://github-readme-streak-stats.herokuapp.com/?user=aaaaaannie&theme=radical" width="400">
+        </td>
+    </tr>
+</table>
 
 ---
 <h3>🌟 Most Used Languages & 🎵 Current Vibes</h3>
@@ -33,11 +33,10 @@
         </td>
         <td align="center">
             <h3>🎵 Current Vibes</h3>
-            <p>🎧 <strong>Now Listening:</strong></p>
             <a href="https://music.apple.com/cn/album/sk8er-boi/315025768?i=315025826">
                 <img src="https://raw.githubusercontent.com/aaaaaannie/aaaaaannie/main/Apple_Music_icon.svg.png" width="50">
             </a>
-            <p><a href="https://music.apple.com/cn/album/sk8er-boi/315025768?i=315025826">Click here to listen on Apple Music</a></p>
+            <p><a href="https://music.apple.com/cn/album/sk8er-boi/315025768?i=315025826">Click here to listen! </a></p>
         </td>
     </tr>
 </table>
