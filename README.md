@@ -47,6 +47,8 @@
 ### 🎵 Current Vibes  
 🎧 **Now Listening:**  
 [![Apple Music](https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Apple_Music_logo.svg/512px-Apple_Music_logo.svg.png)](https://music.apple.com/us/playlist/top-10-songs/pl.u-V9D7mqpu05G)  
+![Apple Music Logo](https://raw.githubusercontent.com/aaaaaannie/aaaaaannie/main/apple-music-logo.png)
+
 [Click here to listen on Apple Music](https://music.apple.com/us/playlist/top-10-songs/pl.u-V9D7mqpu05G)
 
 
