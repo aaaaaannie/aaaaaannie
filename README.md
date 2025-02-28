@@ -1,5 +1,5 @@
 ### 👋 Welcome to my GitHub!  
-![Typing SVG](https://readme-typing-svg.herokuapp.com?size=27&color=F75C7E&width=800&duration=6000&speed=4&lines=We+are+already+on+the+optimal+way!;Welcome,+Explorer!+🚀;Let's+build+something+great+together!)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?size=27&color=F8ED8C&width=800&duration=6000&speed=4&lines=We+are+already+on+the+optimal+way!;Welcome,+Explorer!+🚀;Let's+build+something+great+together!)
 ---
 
 ### 📌 About Me  
@@ -11,7 +11,7 @@
 
 ---
 
-<table>
+<table border="0">
     <tr>
         <td align="center">
             <h3>🚀 GitHub Stats</h3>
