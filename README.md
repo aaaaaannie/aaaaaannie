@@ -6,7 +6,7 @@
 🔭 **Currently working on:** Computer Vision & Deep Learning  
 🌱 **Learning:** Reinforcement Learning & Generative Models  
 📚 **Interests:** AI, Optimization, and Mathematics  
-📫 **Contact me:** [LinkedIn](https://www.linkedin.com/in/your-profile) | [Email](mailto:anniechenyy700@gmail.com)  
+📫 **Contact me:** [LinkedIn](https://www.linkedin.com/in/yiyang-chen-7820a2325/) | [Email](mailto:anniechenyy700@gmail.com)  
 🎧 **Current Vibes:** <a href="https://music.apple.com/cn/album/sk8er-boi/315025768?i=315025826">Click here to explore! </a>
 
 <table style="border: none;">
